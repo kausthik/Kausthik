@@ -198,7 +198,7 @@ const kaushal = {
 ## 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/KaushalKumar?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/kk_gangwar?theme=dark&font=Baloo&ext=heatmap" />
 </div>
  
 ---
