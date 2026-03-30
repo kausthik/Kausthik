@@ -188,14 +188,6 @@ const kaushal = {
  
 ## 📊 GitHub Stats
  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaushalKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaushalKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="165"/>
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushalKumar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="60%"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kausthik" height="165"/>
