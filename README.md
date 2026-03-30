@@ -196,6 +196,18 @@ const kaushal = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushalKumar&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="60%"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kausthik" height="165"/>
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/KaushalKumar?theme=dark&font=Baloo&ext=heatmap" />
+</div>
  
 ---
  
